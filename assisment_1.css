@@ -5,23 +5,15 @@
 .box{
     background-color: lightgrey;
     width: 300px;
-    border: 5px solid green;
+    border: 15px solid green;
     padding: 50px;
     margin: 20px;
 }
 
 .box2{
     background-color: lightgrey;
-    width: 30px;
-    border: 5px solid black;
-    padding: 10px;
+    width: 300px;
+    border: 15px solid yellow;
+    padding: 50px;
     margin: 20px;
-}
-
-.relative{
-    position: relative;
-}
-
-.absolute{
-    position: absolute;
 }
