@@ -1,3 +1,19 @@
 .center{
     text-align: center;
 }
+
+.box{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+.box2{
+    background-color: lightgrey;
+    width: 30px;
+    border: 15px solid black;
+    padding: 10px;
+    margin: 20px;
+}
