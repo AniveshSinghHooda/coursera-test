@@ -6,7 +6,15 @@ body{
 }
 
 #header-nav{
-    background-color: #f6b319;
-    border-radius: 0;
-    border: 0;
+    background-color:   blue;
+    border-radius: 10%;
+    border: 10px;
 }
+
+#logo-img{
+    background: url('../Images/Logo_1.jpg') no-repeat;
+    width: 100px;
+    height: 100px;
+    margin: 10px 15px 10px 0;
+}
+
