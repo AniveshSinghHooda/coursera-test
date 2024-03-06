@@ -13,8 +13,8 @@ body{
 
 #logo-img{
     background: url('../Images/Logo_1.jpg') no-repeat;
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    height: 100%;
     margin: 10px 15px 10px 0;
 }
 
