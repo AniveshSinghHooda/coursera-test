@@ -49,6 +49,34 @@ body{
     vertical-align: middle;
 }
 
+#nav-list{
+    margin-top: 10px;
+}
+
+#nav-list a{
+    color: 0951C49;
+    text-align: center;
+}
+
+#nav-list a-hover{
+    background: #E7E7E7;
+}
+
+#nav-list a span{
+    font-size: 1.8em;
+}
+
+#phone a{
+    text-align: right;
+    padding-bottom: 0;
+}
+
+#phone div{
+    color: #557c3e;
+    text-align: right;
+    padding-right: 15px;
+}
+
 .red{
     color: red;
 }
