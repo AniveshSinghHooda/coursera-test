@@ -49,6 +49,20 @@ body{
     vertical-align: middle;
 }
 
-.red{
-    color: red;
+.coloumn{
+    text-align: center;
+    border: 2px solid   blueviolet;
+    width: 100px;
+    float: left;
+    width: 25%;
+    margin: 3%;
+    background-color: black;
+}
+
+.center{
+    align-items: center;
+}
+
+.footer{
+    background-color: black;
 }
